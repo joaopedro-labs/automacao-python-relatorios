@@ -1,15 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Automação de Coleta de Dados via API, Análise Inteligente e Geração de Relatórios
-Autor: João Pedro Araujo dos Santos (https://github.com/joaopedro-labs)
-Descrição:
-  Script de automação em Python que:
-  1. Consome uma API REST pública (cotações de moedas em tempo real via AwesomeAPI
-     com fallback local offline caso esteja sem internet).
-  2. Processa e analisa variações, gerando insights automáticos (resumo executivo).
-  3. Exporta automaticamente os resultados em CSV (para planilhas) e em um
-     Dashboard HTML/Markdown pronto para envio.
+
 """
 
 from __future__ import annotations
