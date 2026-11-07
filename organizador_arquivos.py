@@ -1,11 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Organizador Inteligente de Diretórios com Log de Auditoria
-Autor: João Pedro Araujo dos Santos (https://github.com/joaopedro-labs)
-Descrição:
-  Script utilitário para organizar arquivos por categoria (Documentos, Planilhas,
-  Imagens, Código, Compactados) com modo de simulação (--dry-run) seguro.
+
 """
 
 from __future__ import annotations
